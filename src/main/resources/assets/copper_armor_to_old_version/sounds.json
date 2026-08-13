@@ -1,0 +1,30 @@
+{
+  "copper_armor_sound": {
+    "sounds": [
+      {
+        "name": "copper_armor_to_old_version:equip_copper6",
+        "stream": false
+      },
+      {
+        "name": "copper_armor_to_old_version:equip_copper5",
+        "stream": false
+      },
+      {
+        "name": "copper_armor_to_old_version:equip_copper4",
+        "stream": false
+      },
+      {
+        "name": "copper_armor_to_old_version:equip_copper3",
+        "stream": false
+      },
+      {
+        "name": "copper_armor_to_old_version:equip_copper2",
+        "stream": false
+      },
+      {
+        "name": "copper_armor_to_old_version:equip_copper1",
+        "stream": false
+      }
+    ]
+  }
+}
